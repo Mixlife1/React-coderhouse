@@ -1,6 +1,6 @@
 const products = [
     {
-        id:"1",
+        id:1,
         name:"Galaxy Z Fold4 Beige 256gb",
         price: 659.999,
         category: "celular",
@@ -9,7 +9,7 @@ const products = [
         description: "Descripcion del iphone"
     },
     {
-        id:"2",
+        id:2,
         name:"Samsung s23",
         price: 409.999,
         category: "celular",
@@ -17,7 +17,7 @@ const products = [
         stock:10,
         description: "Descripcion del samsung"},
     {
-        id:"3",
+        id:3,
         name:"Galaxy A54 5G",
         price: 209.999,
         category: "celular",
